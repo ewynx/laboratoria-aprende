@@ -4,8 +4,9 @@
 Steps come from: https://cordova.apache.org/#getstarted
 
 1. npm install -g cordova.
-2. cordova platform add ios
-3. cordova platform add android
+2. cd laboratoria-aprende
+3. cordova platform add ios
+4. cordova platform add android
 
 ## Running
 ### Commandline
